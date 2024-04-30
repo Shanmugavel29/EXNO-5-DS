@@ -1,6 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-###NAME: SHANMUGAVEL RM
-###REGISTER NO: 212222230142
+ ### NAME: SHANMUGAVEL RM
+ ### REGISTER NO: 212222230142
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
